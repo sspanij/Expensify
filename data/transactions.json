@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2025-04-02",
+    "title": "Grocery Shopping",
+    "amount": 50.75,
+    "payment_mode": "Credit Card",
+    "category": "Food",
+    "updated_via": "Manual"
+  }
+]
